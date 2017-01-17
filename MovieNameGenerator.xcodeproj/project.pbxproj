@@ -13,6 +13,7 @@
 		8BE2E2AF1E2E225200ACA992 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BE2E2AD1E2E225200ACA992 /* Main.storyboard */; };
 		8BE2E2B11E2E225200ACA992 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BE2E2B01E2E225200ACA992 /* Assets.xcassets */; };
 		8BE2E2B41E2E225200ACA992 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BE2E2B21E2E225200ACA992 /* LaunchScreen.storyboard */; };
+		8BE2E2BD1E2E238100ACA992 /* MovieNameGeneratorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BE2E2BC1E2E238100ACA992 /* MovieNameGeneratorViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		8BE2E2B01E2E225200ACA992 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BE2E2B31E2E225200ACA992 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BE2E2B51E2E225200ACA992 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BE2E2BB1E2E238100ACA992 /* MovieNameGeneratorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieNameGeneratorViewController.h; sourceTree = "<group>"; };
+		8BE2E2BC1E2E238100ACA992 /* MovieNameGeneratorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieNameGeneratorViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				8BE2E2A81E2E225200ACA992 /* AppDelegate.m */,
 				8BE2E2AA1E2E225200ACA992 /* ViewController.h */,
 				8BE2E2AB1E2E225200ACA992 /* ViewController.m */,
+				8BE2E2BB1E2E238100ACA992 /* MovieNameGeneratorViewController.h */,
+				8BE2E2BC1E2E238100ACA992 /* MovieNameGeneratorViewController.m */,
 				8BE2E2AD1E2E225200ACA992 /* Main.storyboard */,
 				8BE2E2B01E2E225200ACA992 /* Assets.xcassets */,
 				8BE2E2B21E2E225200ACA992 /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BE2E2BD1E2E238100ACA992 /* MovieNameGeneratorViewController.m in Sources */,
 				8BE2E2AC1E2E225200ACA992 /* ViewController.m in Sources */,
 				8BE2E2A91E2E225200ACA992 /* AppDelegate.m in Sources */,
 				8BE2E2A61E2E225200ACA992 /* main.m in Sources */,
