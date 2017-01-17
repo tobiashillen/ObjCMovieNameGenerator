@@ -24,8 +24,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.adjectives = @[@"Total", @"Super", @"Fantastic", @"Lost", @"Magical"];
-    self.nouns = @[@"War", @"Love Story", @"Wonder", @"Mystery", @"Journey"];
+    self.adjectives = @[@"Total", @"Super", @"Fantastic", @"Lost", @"Magical", @"Epic"];
+    self.nouns = @[@"War", @"Love Story", @"Wonder", @"Mystery", @"Journey", @"Crime"];
 }
 
 // Randomizer
