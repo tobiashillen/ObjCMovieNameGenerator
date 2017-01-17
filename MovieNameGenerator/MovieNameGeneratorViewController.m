@@ -28,6 +28,7 @@
     self.nouns = @[@"War", @"Love Story", @"Wonder", @"Mystery", @"Journey"];
 }
 
+// Randomizer
 - (NSString*)randomElement:(NSArray*)array {
     return array[arc4random() % array.count];
 }
